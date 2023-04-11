@@ -1,8 +1,8 @@
 <footer class="main-footer fixed-bottom">
     <strong>جميع الحقوق محفوظة &copy; <?php echo date('Y');?> 
-    <a href="https://tech-code24.net/">نظام ادارة تقارير المرضئ في العيادة الطبية</a>.</strong> 
+    <a href="">نظام ادارة تقارير المرضئ في العيادة الطبية</a>.</strong> 
     <div class="float-right d-sm-block">
-    تم التطوير بواسطة TECHCODE24
+    تم التطوير بواسطة Mohamad Ghazi Mohamad
     </div>
   </footer>
 
